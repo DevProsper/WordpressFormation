@@ -1,0 +1,15 @@
+/*
+Theme Name: Formation
+Theme URI: https://formation.org
+Author: Prosper NGOUARI
+Author URI: https://prosper.org/
+Description: Petite formation avec wordpress
+Version: 1.4
+License: GNU General Public License v2 or later
+Text Domain: Formation
+*/
+
+body{
+	background-color: #df4227;
+	color: white;
+}
